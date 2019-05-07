@@ -102,10 +102,102 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
+   /*---------------- Base Header, Footer Styles ----------------------------*/
+
+   header, footer {
+
+   }
+   
+   /*-------------- Header styles -------------------------*/
+
+   header {
+
+   }
+
+   header .content-wrapper {
+
+   }
+
+   .header-divider {
+
+   }
+
+   header nav {
+
+   }
+
+   aside {
+
+   }
+
+aside .form-description {
+
+}
+
+aside . form {
+
+}
 
 
 
+/*-------------------------- Main --------------------------*/
 
+.hero-area {
+
+}
+
+.features {
+
+}
+
+.features-items {
+
+}
+
+.fontawesome-icon {
+
+}
+
+
+.features-descript {
+
+}
+
+.reviews {
+
+}
+
+
+
+/*---------------- Footer -----------------------*/
+
+footer {
+
+}
+
+.footer-content {
+
+}
+
+.contact-wrapper {
+
+}
+
+.contact {
+
+}
+
+.social {
+
+}
+
+.social-icons {
+
+}
+
+.copyright {
+
+}
 
 
 
