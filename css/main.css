@@ -116,6 +116,14 @@ header, footer {
 header {
     padding: 15px 0;
 }
+
+.content-wrapper {
+    width:55%;
+}
+
+.header-divider {
+    width: 60%;
+}
    
 
 header .content-wrapper {
@@ -140,7 +148,7 @@ header nav {
 header nav ul {
     display:flex;
     justify-content: space-around;
-    width: 55%;
+    width: 40%;
 }
 
 footer .social-icons {
@@ -197,7 +205,7 @@ aside {
     display:flex;
     justify-content: center;
     flex-flow: row wrap;
-    width: 60%;
+    width: 55%;
 }
 
 /*--------------------- About -------------------------*/
