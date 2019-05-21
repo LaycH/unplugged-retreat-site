@@ -267,7 +267,10 @@ footer .copyright {
 /*-------------- Hero image ------------------*/
 
 .hero-area {
-
+    background: url('../img/jake-melara-30679-unsplash.jpg');
+    background-size: cover;
+    background-position: center;
+    min-height: 500px;
     display: flex;
     justify-content: center;
     flex-flow: row wrap;
@@ -321,6 +324,9 @@ aside .form {
 /*------------------------ Features ----------------------*/
 
 .features {
+    background: url('../img/rawpixel-unsplash.jpg');
+    background-size: cover;
+    background-position: center;
     display:flex;
     justify-content: center;
     flex-flow: row wrap;
@@ -613,7 +619,7 @@ aside .form {
         width: 90%;
     }
 
-    .reviews article div {
+    .reviews article div, .reviews article figure {
         width: 49%;
     }
 
