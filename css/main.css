@@ -141,16 +141,19 @@ p {
     line-height: 1.285;
 }
 
+
 address {
     font-style: normal;
 }
 
 
 img {
+    width: 100%;
 
 }
 
 figure {
+    margin:0;
 
 }
 
@@ -180,6 +183,14 @@ header .content-wrapper {
     margin: 0;
     display: flex;
     justify-content:center;
+    align-items: center;
+    flex-flow: row wrap;
+}
+
+header figure {
+    width: 60%;
+    display: flex;
+    justify-content: center;
     align-items: center;
     flex-flow: row wrap;
 }
@@ -256,6 +267,7 @@ footer .copyright {
 /*-------------- Hero image ------------------*/
 
 .hero-area {
+
     display: flex;
     justify-content: center;
     flex-flow: row wrap;
